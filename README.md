@@ -4,13 +4,7 @@ This project involves using Linear Regression to predict the medical insurance c
 
 ## Dataset
 The dataset used in this project includes information on different individuals' medical costs along with their demographic and lifestyle information. The key features in the dataset are:
-Age
-Gender
-BMI (Body Mass Index)
-Number of children
-Smoking status
-Region
-Insurance charges (target variable)
+Age, Gender, BMI (Body Mass Index), Number of children, Smoking status, Region. Insurance charges (target variable)
 
 ## Project Steps
 ### 1. Data Preprocessing
