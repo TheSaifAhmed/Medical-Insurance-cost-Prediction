@@ -9,9 +9,13 @@ Age, Gender, BMI (Body Mass Index), Number of children, Smoking status, Region. 
 ## Project Steps
 ### 1. Data Preprocessing
 Loading the Dataset: The dataset is loaded into a Pandas DataFrame.
+
 Exploratory Data Analysis (EDA): EDA is performed to understand the distribution of the data, check for missing values, and visualize the features.
+
 Encoding Categorical Variables: Categorical variables like gender, smoking status, and region are encoded into numerical values using one-hot encoding.
+
 Data Splitting: The dataset is split into training and testing sets to evaluate the model's performance.
+
 ### 2. Model Construction
 Linear Regression Model: A Linear Regression model is constructed using the scikit-learn library.
 ### 3. Model Training
