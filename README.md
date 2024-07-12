@@ -23,8 +23,7 @@ Training the Model: The model is trained on the training dataset using the fit m
 ### 4. Model Evaluation
 Performance Metrics: The model's performance is evaluated on the test dataset using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared score.
 ### 5. Results and Analysis
-Model Interpretation: The coefficients of the Linear Regression model are analyzed to understand the impact of each feature on the predicted insurance costs.
-Prediction Visualization: Predicted vs actual costs are visualized to assess the model's accuracy of 74.4% on test data.
+The coefficients of the Linear Regression model are analyzed to understand the impact of each feature on the predicted insurance costs; and a model of accuracy of 74.4% on test data was attained.
 
 ## Conclusion
 This project demonstrates the application of Linear Regression in predicting medical insurance costs. By understanding the relationship between demographic and lifestyle factors and insurance costs, insurance companies can set more accurate premiums, and customers can better manage their healthcare expenses.
